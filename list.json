@@ -1,4 +1,5 @@
 {
+  "User ID": { "Rank": "Custom Rank or whatever" },
   "123": { "Rank": "Protectee" },
   "123": { "Rank": "Protectee" },
   "123": { "Rank": "Protectee" },
@@ -6,6 +7,5 @@
   "123": { "Rank": "Protectee" },
   "123": { "Rank": "Protectee" },
   "123": { "Rank": "Protectee" },
-  "123": { "Rank": "Protectee" },
-  "123": { "Rank": "Rank here" }
+  "123": { "Rank": "Protectee" }
 }
